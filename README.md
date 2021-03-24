@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 
 This text is here for the sole purpose of texting git commands
 
+## Copyright
+
+Copyright notice
