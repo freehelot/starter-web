@@ -17,4 +17,4 @@ This text is here for the sole purpose of texting git commands
 
 ## Copyright
 
-Copyright notice
+Copyright notice. All rights reserved.s
